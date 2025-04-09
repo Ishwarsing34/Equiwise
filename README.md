@@ -1,0 +1,1 @@
+# A-User-Friendly-Platform-for-Stock-Market-Guidance-Using-Fundamental-Analysis-and-Machine-Learning
